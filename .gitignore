@@ -1,0 +1,8 @@
+# TLA+ generated files
+*.out
+*.old
+states/
+*.fp
+*.st
+nodes_*
+ptrs_*
